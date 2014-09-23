@@ -4,7 +4,7 @@ Bunch of useful example for node.js file system(read, copy, write, print, conver
 2. run node.js + fileName
 
 example: 
-To copy a file pleas do this steps:
+To copy a file please do this steps:
 
 1. point to the folder
 2. run: node fs_copy.js "fileName.XX" "newFilename.xx"
